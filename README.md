@@ -1,9 +1,9 @@
-<H3>Name  UDAYAKUMAR R</H3>
+<H3>Name :  UDAYAKUMAR R</H3>
 <H3>Register no. 212222230163</H3>
-<H3>Date 14.03.2024</H3>
-<H3>Experiment No. 2 </H3>
+<H3>Date : 14-03-2024</H3>
+<H3>Ex No. 2 </H3>
 
-## Implementation of Perceptron for Binary Classification
+<H2 align = center>  Implementation of Perceptron for Binary Classification </H2>
 
 # AIM:
 To implement a perceptron for classification using Python<BR>
