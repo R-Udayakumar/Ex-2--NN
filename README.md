@@ -1,6 +1,6 @@
 <H3>Name  UDAYAKUMAR R</H3>
 <H3>Register no. 212222230163</H3>
-<H3>Date 04.04.2024</H3>
+<H3>Date 14.03.2024</H3>
 <H3>Experiment No. 2 </H3>
 
 ## Implementation of Perceptron for Binary Classification
